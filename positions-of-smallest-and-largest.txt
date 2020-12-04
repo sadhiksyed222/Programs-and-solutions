@@ -1,0 +1,14 @@
+﻿Positions of Smallest and Largest
+Author
+letuscrack
+Please change variable names
+C++ :
+
+C:
+
+
+# C Code by Agent Falcon
+Python :
+
+
+# Python Code by Agent Parker
