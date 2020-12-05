@@ -1,4 +1,4 @@
-*/
+/*
 2D Matrix Absolute Difference Diagonals Elements Sum
 Author
 letuscrack
