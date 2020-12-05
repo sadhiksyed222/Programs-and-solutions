@@ -1,4 +1,5 @@
-﻿2D Matrix Absolute Difference Diagonals Elements Sum
+*/
+2D Matrix Absolute Difference Diagonals Elements Sum
 Author
 letuscrack
 A Square Matrix has N rows and N columns. Get the matrix as input and find the absolute difference between the sum of the values in the two diagonals. 
@@ -12,6 +13,10 @@ Output:115 
 Example Input/Output 2: 
 Input:4 1 4 4 2 2 2 1 8 8 1 3 5 10 1 8 3 
 Output:5
+*/
+
+C Code:
+
 #include<stdio.h>
 #include <stdlib.h>
 int main()
@@ -29,9 +34,11 @@ for(i=0;i<n;i++){
 printf("%d",abs(t-d));
 
 }
+
+Python Code:
+
 n=int(input())
 m=[[int(i) for i in input().split()]for j in range(n)]
 s=sum(m[i][i]for i in range(n))
 s1=sum(m[i][n-i-1]for i in range(n))
-
 print(abs(s-s1))
