@@ -1,4 +1,5 @@
-﻿2D MATRIX MODIFICATION
+/*
+2D MATRIX MODIFICATION
 Author
 letuscrack
 A Matrix has R rows and C columns. Get the matrix as input and multiply the value in the cells of the matrix by a value E if it is even and multiply it by a value F if it is odd.
@@ -31,6 +32,8 @@ Output:
 4 24 28 25 24
 16 15 85 8 95
 36 55 25 28 45
+*/
+
 #include<stdio.h> 
 #include <stdlib.h>
  int main() {
