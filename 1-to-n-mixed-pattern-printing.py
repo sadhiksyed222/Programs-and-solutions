@@ -1,4 +1,4 @@
-﻿1 to N - Mixed Pattern Printing
+"""1 to N - Mixed Pattern Printing
 Author
 letuscrack
 The program must accept a number N and print the numbers from 1 to N with the first number being 1, second number being N, third being 2 and the fourth being N-1 and so on.
@@ -18,6 +18,8 @@ Input:
 6
 Output:
 1 6 2 5 3 4
+"""
+
 n=int(input())
 m=list(range(1,n//2+2))
 b=list(range(n//2+2,n+1))
