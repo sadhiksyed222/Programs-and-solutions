@@ -1,4 +1,4 @@
-"""1 to N - Forward and Reverse Interlaced
+"""1 to N -Forward and Reverse Interlaced
 Author
 letuscrack
 The program must accept a number N and print the numbers from 1 to N in both forward and reverse direction interlaced with each other
