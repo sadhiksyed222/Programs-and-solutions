@@ -1,4 +1,5 @@
-﻿1st Half / 2nd Half Alphabets
+/*
+1st Half / 2nd Half Alphabets
 Author
 letuscrack
 Leela is a science teacher for class V and she wants to divide the class into two halves based on the starting letter of the names of the students. Accept the first letter of name L of the students in the class and print 1st half, if the name of the student starts with A to M Print 2nd half; if the name of the student starts with N to Z.
@@ -16,6 +17,8 @@ Input:
 x
 Output:
 2nd half
+*/
+
 import java.util.*;
 public class Hello {
 
