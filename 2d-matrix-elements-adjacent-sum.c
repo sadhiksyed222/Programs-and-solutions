@@ -1,4 +1,5 @@
-﻿2D Matrix - Elements Adjacent Sum
+/*
+2D Matrix - Elements Adjacent Sum
 Author
 letuscrack
 Given a matrix of R rows and C columns, for each element print the sum of the adjacent elements.Input Format:The first line contains RThe second line contains CNext R lines each contains C values separated by a spaceOutput Format:R lines each containing C values which represent the sum of the adjacent elements.
@@ -18,6 +19,8 @@ Output:
 20 12 25 9 5
 19 27 21 18 2
 18 21 34 22 16
+*/
+
 #include<stdio.h>
 #include <stdlib.h>
 int main()
