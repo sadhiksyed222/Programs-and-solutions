@@ -1,4 +1,4 @@
-﻿1 to N - Forward and Reverse Interlaced
+"""1 to N - Forward and Reverse Interlaced
 Author
 letuscrack
 The program must accept a number N and print the numbers from 1 to N in both forward and reverse direction interlaced with each other
@@ -11,6 +11,7 @@ Input
 9
 Output
 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1
+"""
 n=int(input())
 c=list()
 for i in range(1,n+1):
