@@ -7,6 +7,8 @@ A number is said to be an Adam number if the reverse of the square of the numbe
 Write an Algorithm and the subsequent Python code to check whether the given number  is an Adam number or not.
 Write a function to reverse a number
 
+"""
+
 Python Code:
 
 def rev(n):
