@@ -67,6 +67,9 @@ C H T U
 R N S G
 O L D
 CAR is not found traversing from left to right or top to bottom. So -1 is printed as the output.
+
+C Code:
+
 #include<stdio.h>
 #include <stdlib.h>
 
@@ -95,6 +98,9 @@ int main() {
     }
     printf("-1");
 }
+
+Python Code:
+
 a=input()
 b=input()
 n=int(input())
