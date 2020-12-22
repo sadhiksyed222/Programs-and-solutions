@@ -8,7 +8,7 @@ Boundary Condition(s):
 1 <= X <= 100
 Input Format:
 The first line contains N and X separated by a space.
-Output Format:
+Output Format :
 The first line contains YES or NO.
 Example Input/Output1:
 Input:
